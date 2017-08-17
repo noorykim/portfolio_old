@@ -11,6 +11,7 @@
 
 # Contact
 
-Noory Kim
+Noory Kim: [Linked In](https://www.linkedin.com/in/noory)
 
-[Linked In](https://www.linkedin.com/in/noory)
+
+Last updated 2017-08-17
