@@ -2,11 +2,11 @@
 
 ## SAS
 
-[SAS Tips](sas-tips)
+[SAS Tips](/sas-tips)
 
 ## R
 
-[SAMURAI, an R package](R-samurai)
+[SAMURAI, an R package](/R-samurai)
 
 
 # Contact
