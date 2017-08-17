@@ -9,6 +9,8 @@
 [SAMURAI, an R package](R-samurai)
 
 
+# Contact
+
 Noory Kim
 
 [Linked In](https://www.linkedin.com/in/noory)
