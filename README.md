@@ -2,4 +2,4 @@
 
 # Portfolio
 
-[SAS Tips](noorykim.github.io)
+[SAS Tips](sas-tips)
