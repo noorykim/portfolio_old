@@ -5,7 +5,7 @@
 
 [SAS Tips](/sas-tips)
 
-[SAMURAI, an R package for meta-analysts/systematic reviewers](/R-samurai)
+[SAMURAI, an R package for meta-analyses/systematic reviews](/R-samurai)
 
 
 ## Statistical Consulting
