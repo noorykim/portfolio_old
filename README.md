@@ -1,12 +1,16 @@
 # Portfolio
 
-## SAS
+
+## Statistical Programming
 
 [SAS Tips](/sas-tips)
 
-## R
-
 [SAMURAI, an R package](/R-samurai)
+
+
+## Statistical Consulting
+
+[Latent class analysis]()
 
 
 # Contact
@@ -14,4 +18,4 @@
 Noory Kim: [LinkedIn](https://www.linkedin.com/in/noory)
 
 
-Last updated 2017-08-17
+Last updated 2017-08-22
