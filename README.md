@@ -10,7 +10,7 @@
 
 ## Statistical Consulting
 
-[Latent class analysis](/stat-lca-malaria-tests)
+[Assessing Concordance among Diagnostic Tests for Malaria using Latent Class Analysis](/stat-lca-malaria-tests)
 
 
 # Contact
