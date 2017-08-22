@@ -10,7 +10,7 @@
 
 ## Statistical Consulting
 
-[Latent class analysis]()
+[Latent class analysis](/stat-lca-malaria-tests)
 
 
 # Contact
