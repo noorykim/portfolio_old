@@ -7,7 +7,7 @@
 
 [SAMURAI, an R package for meta-analyses/systematic reviews](/R-samurai)
 
-[Python.](/python)
+[Python](/python)
 
 
 ## Statistical Consulting
