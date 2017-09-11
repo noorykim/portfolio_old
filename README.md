@@ -1,15 +1,14 @@
 # Portfolio
 
 
-## Statistical Programming
+## Programming
 
 [SAS Tips](/sas-tips)
 
 [SAMURAI, an R package for meta-analyses/systematic reviews](/R-samurai)
 
-## Other Programming
-
 [Python.](/python)
+
 
 ## Statistical Consulting
 
