@@ -20,6 +20,3 @@
 # Contact
 
 Noory Kim: [LinkedIn](https://www.linkedin.com/in/noory)
-
-
-
