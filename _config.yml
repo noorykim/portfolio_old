@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
-future: true                    # always refresh/update to most recent version
 
+# always refresh/update to most recent version
+future: true
