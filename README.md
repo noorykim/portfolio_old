@@ -9,7 +9,7 @@
 
 ## Other Programming
 
-[Python](/Python)
+[Python](/python)
 
 ## Statistical Consulting
 
