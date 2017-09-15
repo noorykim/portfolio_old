@@ -6,6 +6,7 @@
 [SAS Tips](/sas-tips)
 
 [SAMURAI, an R package for meta-analyses/systematic reviews](/R-samurai)
+  * [examples via an R Shiny app](https://noory.shinyapps.io/samurai_example/)
 
 [Python](/python)
 
