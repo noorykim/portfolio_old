@@ -3,10 +3,13 @@
 
 ## Programming
 
-[SAS Tips](/sas-tips)
+[SAS Tips](/sas-tips), including
+  * [Converting Non-Imputed Dates for SDTM Data Sets With PROC FCMP](https://pharmasug.org/proceedings/2017/TT/PharmaSUG-2017-TT07.pdf)
 
 [SAMURAI, an R package for meta-analyses/systematic reviews](/R-samurai)
-  * [examples via an R Shiny app](https://noory.shinyapps.io/samurai_example/)
+  * [examples (R Shiny app)](https://noory.shinyapps.io/samurai_example/)
+  * [journal article](https://doi.org/10.1186/2046-4053-3-27)
+  * [package documentation](https://cran.r-project.org/web/packages/SAMURAI/SAMURAI.pdf)
 
 [Python](/python)
 
